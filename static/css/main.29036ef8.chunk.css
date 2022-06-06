@@ -1,0 +1,2 @@
+*{list-style:none;margin:0;padding:0}.container{box-sizing:border-box;max-width:100vw;display:grid;justify-content:center;grid-template-columns:repeat(auto-fill,250px);grid-gap:20px 100px;gap:20px 100px}.item{padding:10px;border:3px solid orange;border-radius:20px}.commentList{margin-top:10px;padding-top:10px;border-top:1px solid #000}.commentList__name{font-weight:600;margin-bottom:10px}.commentList__body{display:block;margin-bottom:10px}.commentList__email{color:#055353;font-weight:600}
+/*# sourceMappingURL=main.29036ef8.chunk.css.map */
